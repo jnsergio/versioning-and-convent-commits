@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.2.0"></a>
+## [1.2.0](https://www.github.com/jnsergio/versioning-and-convent-commits/releases/tag/v1.2.0) (2023-12-21)
+
+### Features
+
+* **task:** Add action to create a release ([8fcaff8](https://www.github.com/jnsergio/versioning-and-convent-commits/commit/8fcaff8d89f5071ba31a40cd1d8a613ca8a6f735))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/jnsergio/versioning-and-convent-commits/releases/tag/v1.1.0) (2023-12-21)
 
